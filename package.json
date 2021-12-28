@@ -1,0 +1,19 @@
+{
+  "name": "dskapi",
+  "version": "1.0.0",
+  "description": "An Docker test Api for pulling data from Sql Server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "run test"
+  },
+  "keywords": [
+    "dsk",
+    "api"
+  ],
+  "author": "Sifiso Shane Mfeya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
